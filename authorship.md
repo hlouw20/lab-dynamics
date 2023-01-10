@@ -31,8 +31,8 @@ output:
 - All abstracts, posters, talks, preprints and papers are representations of the lab and must be approved by Claudia before submission
 
 
-Name of trainee:
+Name of trainee:  Hailey Louw
 
-Signature of trainee:
+Signature of trainee: Hailey Louw
 
-Date:
+Date: 01/10/23
